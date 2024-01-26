@@ -3,7 +3,7 @@
 
 The steps to this are a little confusing at first but I will do my best.
 
-1. Create an account on developer.ford.com
+1. Create an account on https://developer.ford.com
 2. Once you have an account go here : https://developer.ford.com/apis/fordconnect/documentation and download the guide and the postman files.
 3. Create an account on postman.com and then follow the instructions in the guide including uploading all the files to postman.
 4. Once you have create tokens in postman create a refresh token in postman twice.

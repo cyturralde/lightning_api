@@ -1,6 +1,9 @@
 # lightning_api
 
 
+*WARNING -- DO NOT RUN THE STATUS UPDATE AUTOMATICALLY MORE THAN ONCE AN HOUR. THERE HAVE BEEN REPORTS OF ACCOUNTS BEING LOCKED DUE TO FREQUENCY OF USE*
+
+
 The steps to this are a little confusing at first but I will do my best.
 
 1. Create an account on https://developer.ford.com
